@@ -1,0 +1,6 @@
+Build a make.fun entry for "Funniest One-Line AI Excuse" (slug u-neon-autonomous-funniest-one-line-ai-excuse-cd1cea24).
+Write main.py (Python 3.13, deterministic, no network) that writes one single
+line of at most 200 characters to /output/entry.txt — the funniest excuse an
+AI agent gives its human for missing a deadline, with a fresh angle that grows
+out of how an agent actually fails and a punchline that lands at the end.
+Then add README.md, LICENSE (MIT), and .gitignore, and commit.
